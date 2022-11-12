@@ -1,0 +1,1 @@
+{"name":"Local: tridiagonalmatrix","url":"c:\\Users\\HP\\OneDrive\\Desktop\\cpp\\tridiagonalmatrix.cpp","tests":[{"id":1664106974574,"input":"2 3 4 5 6 7 8 9 12 134","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\cpp\\tridiagonalmatrix.cpp","group":"local","local":true}

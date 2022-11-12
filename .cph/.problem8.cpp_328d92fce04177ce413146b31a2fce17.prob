@@ -1,0 +1,1 @@
+{"name":"Local: problem8","url":"c:\\Users\\HP\\OneDrive\\Desktop\\cpp\\problem8.cpp","tests":[{"id":1663243052822,"input":"3\n100 11 1 10\n999 25 36 9\n2500 100 125 101","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\HP\\OneDrive\\Desktop\\cpp\\problem8.cpp","group":"local","local":true}
